@@ -15,9 +15,9 @@ This tutorial outlines the setup and use of a Security Operations Center (SOC) &
 </p>
 <p>
   Supreme Admin:
-</p>
+</p> 
 <p>
-  <img src="https://i.imgur.com/SXpTf20.png" height="75%" width="100%" alt="Definitions"/>
+  <img src="https://i.imgur.com/KigsoyB.png" height="75%" width="100%" alt="Preset VM"/>
   <img src="https://i.imgur.com/9fBmrZj.png" height="75%" width="100%" alt="Permissions"/>
   <img src="https://i.imgur.com/1sDBsuZ.png" height="75%" width="100%" alt="More Permissions"/>
   <img src="https://i.imgur.com/2SVt7rt.png" height="75%" width="100%" alt="Even More Permissions"/>
