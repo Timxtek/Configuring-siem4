@@ -11,7 +11,7 @@ This tutorial outlines the setup and use of a Security Operations Center (SOC) &
 <h3 align="center">Configure Virtual Machine</h3>
 <br />
 <p>
-  Virtual Machines -> preset configuration -> create.
+  Virtual Machines- preset configuration- create.
 </p>
 
 <p>
@@ -21,7 +21,7 @@ This tutorial outlines the setup and use of a Security Operations Center (SOC) &
   <p>
     <h3 align="center">MS Sentinel</h3>
   </p>
-  <p> MS Sentinel -> create a workspace ->
+  <p> MS Sentinel- create a workspace- create.
   </p>
   <img src="https://i.imgur.com/1LNwfRm.png" height="75%" width="100%" alt="Preset 4"/>
   <img src="https://i.imgur.com/sHbu7ZG.png" height="75%" width="100%" alt="Preset 5"/>
