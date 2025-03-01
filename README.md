@@ -11,15 +11,16 @@ This tutorial outlines the setup and use of a Security Operations Center (SOC) &
 <h3 align="center">Configure Virtual Machine</h3>
 <br />
 <p>
-  Admin Panel -> Agents -> Roles.
+  Virtual Machines -> preset configuration -> create.
 </p>
+
 <p>
-  Supreme Admin:
-</p> 
-<p>
-  <img src="https://i.imgur.com/KigsoyB.png" height="75%" width="100%" alt="Preset VM"/>
+  <img src="https://i.imgur.com/KigsoyB.png" height="75%" width="100%" alt="Preset 1"/>
   <img src="https://i.imgur.com/KOVvYJ3.png" height="75%" width="100%" alt="Preset 2"/>
   <img src="https://i.imgur.com/PECekYI.png" height="75%" width="100%" alt="Preset 3"/>
+  <p>
+    MS Sentinel
+  </p>
   <img src="https://i.imgur.com/1LNwfRm.png" height="75%" width="100%" alt="Preset 4"/>
   <img src="https://i.imgur.com/sHbu7ZG.png" height="75%" width="100%" alt="Preset 5"/>
   <img src="https://i.imgur.com/UKSpc5l.png" height="75%" width="100%" alt="Preset 6"/>
