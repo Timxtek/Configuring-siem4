@@ -19,7 +19,9 @@ This tutorial outlines the setup and use of a Security Operations Center (SOC) &
   <img src="https://i.imgur.com/KOVvYJ3.png" height="75%" width="100%" alt="Preset 2"/>
   <img src="https://i.imgur.com/PECekYI.png" height="75%" width="100%" alt="Preset 3"/>
   <p>
-    MS Sentinel
+    <h3 align="center">MS Sentinel</h3>
+  </p>
+  <p> MS Sentinel -> create a workspace ->
   </p>
   <img src="https://i.imgur.com/1LNwfRm.png" height="75%" width="100%" alt="Preset 4"/>
   <img src="https://i.imgur.com/sHbu7ZG.png" height="75%" width="100%" alt="Preset 5"/>
