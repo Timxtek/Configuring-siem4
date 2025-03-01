@@ -26,7 +26,13 @@ This tutorial outlines the setup and use of a Security Operations Center (SOC) &
   <img src="https://i.imgur.com/1LNwfRm.png" height="75%" width="100%" alt="Preset 4"/>
   <img src="https://i.imgur.com/sHbu7ZG.png" height="75%" width="100%" alt="Preset 5"/>
   <img src="https://i.imgur.com/UKSpc5l.png" height="75%" width="100%" alt="Preset 6"/>
+  <p>
+    After creation, add the sentinel to a workspace.
+  </p>
   <img src="https://i.imgur.com/RaaSYKD.png" height="75%" width="100%" alt="Preset 7"/>
+  <p>
+    Navigate back to the "Log Analytics workspaces" tab. Open the settings tab to find "agents".
+  </p>
   <img src="https://i.imgur.com/jUEM7C9.png" height="75%" width="100%" alt="Preset 8"/>
   <img src="https://i.imgur.com/hKqweMg.png" height="75%" width="100%" alt="Preset 9"/>
   <img src="https://i.imgur.com/Qiq8sl5.png" height="75%" width="100%" alt="Preset 10"/>
